@@ -1,6 +1,6 @@
 {
   "name": "google-books-react-search",
-  "version": "1.0.0",
+  "version": "v12.13.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "server.js",
   "scripts": {
